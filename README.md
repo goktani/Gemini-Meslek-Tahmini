@@ -13,3 +13,7 @@ Bu proje, **Google Gemini API** kullanarak kullanıcının kendisini tanıttığ
 - **Python** (Ana programlama dili)
 - **Google Gemini API** (Yapay Zeka destekli öneri)
 - **requests** (HTTP istekleri için)
+
+## Çıkan Cevabımız
+
+- **<img width="653" alt="Screenshot 2025-02-22 at 12 51 07" src="https://github.com/user-attachments/assets/7050ac81-8b4d-4188-be0e-34043ee36c5c" />**
